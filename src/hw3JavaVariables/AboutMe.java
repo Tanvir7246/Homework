@@ -25,7 +25,7 @@ public class AboutMe {
 				+ "\nMy Bangladeshi citizenship status is " + aboutMe.bangladeshiCitizenship);
 		System.out.println(aboutMe.phoneNumber);
 		System.out.println("My pin number is " + aboutMe.pinNumber + "\nMy Gpa is " + aboutMe.gpa);
-     
+     //GIOLO
 	}
 
 }
