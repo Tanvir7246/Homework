@@ -4,7 +4,7 @@ import hw1JavaBasics.MySelf;
 
 public class AboutMe {
 	// Variable declared below
-	public int age ;
+	public int age = 55555;
 
 	// Variables initialized below
 	public String name = "Tanvir Mahamood Saimoon";
