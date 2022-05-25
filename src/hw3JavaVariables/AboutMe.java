@@ -1,6 +1,6 @@
 package hw3JavaVariables;
 
-import hw1JavaBasics.MySelf;
+
 
 public class AboutMe {
 	// Variable declared below
